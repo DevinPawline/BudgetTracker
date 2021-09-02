@@ -16,7 +16,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 mongoose.connect(
-  "mongodb+srv://pawlinedevin:0e5#97Dp@cluster0.eg1vo.mongodb.net/budgetdb?retryWrites=true&w=majority",
+  "mongodb+srv://pawlinedevin:0e5%2397Dp@cluster0.eg1vo.mongodb.net/budgetdb?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useFindAndModify: false
