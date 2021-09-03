@@ -7,6 +7,10 @@ Create a budget tracker for online and offline use, deployed using Heroku and Mo
 
 ### Video of Functionality: 
 
+
+https://user-images.githubusercontent.com/79121046/131935784-2c111947-f58c-4dbc-8454-0f1a16d4a0aa.mp4
+
+
 ### License:
 This project is licensed under:
 MIT
